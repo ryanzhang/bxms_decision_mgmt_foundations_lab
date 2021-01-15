@@ -1,0 +1,8 @@
+template header
+colume1
+colume2
+colume3
+
+import com.awsome.great.*;
+
+global org.slf4j.Logger logger;
